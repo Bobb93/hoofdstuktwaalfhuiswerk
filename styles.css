@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  font-size: 32px;
+}
+
+header, footer {
+    background-color: #d40b0b;
+    color: #09bf0f;
+    padding: 20px;
+    text-align: center;
+  }
+
+  table{
+    padding: 10;
+    background-color: green;
+    color: black;
+  }
